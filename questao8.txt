@@ -1,0 +1,43 @@
+Q8 - Determine se cada uma das seguintes alternativas é verdadeira ou falsa. Se falsa, explique por quê.
+
+ A) O caso default é requerido na instrução de seleção switch.
+
+ Resposta: Falso, ele pode ser colocado no switch, mas não é obrigatório. Ou seja, caso eu não queira tratar "outros casos", eu não o coloco.
+
+
+
+
+ B) A instrução break é requerida no último caso de uma instrução de seleção switch.
+
+ Resposta: Falso, pois ele é requerido em todos os casos, exceto no default
+
+
+
+
+ C) A expressão ((x > y) && (a < b)) é verdadeira se (x > y) for verdadeiro ou (a < b) for verdadeira.
+
+  Resposta: Falso. A expressão será verdadeira se o "x" for maior que "y" e o "a" for menor que o "b", pois o simbolo "&&" signfica "e (and)", não signfica "ou (or)". Logo, ambas as empressões precisam verdadeiras. p  
+
+
+
+
+ D) Uma expressão contendo o operador || é verdadeira se um ou ambos de seus operandos forem verdadeiros.
+
+  Resposta: Verdadeira.
+
+
+
+
+ E) Para testar para uma série de valores em uma instrução switch, pode-se utilizar um hífen (–) entre os valores inicial e final da série em um rótulo case.
+
+ Resposta: Falso, não se pode testar mais de um valor em uma instrução switch.
+
+
+
+
+ F)Listar casos consecutivamente sem instruções entre eles permite aos casos executar o mesmo conjunto de instruções.
+
+ Resposta: Verdadeira.
+
+
+
